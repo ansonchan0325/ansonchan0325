@@ -6,7 +6,7 @@
 
 ## 📌 Featured Projects
 - **[Research of Research](https://github.com/choisiulun1/Research_Of_Research)**: AI-powered research insights engine (Azure + Power BI + CosmosDB)
-- **[Gomoku Alpha Zero]([./portfolio/gomoku-alpha-zero](https://github.com/ansonchan0325/Gomoku-integrated-with-Alpha-Zero))**: Reinforcement learning agent with MCTS & policy training
+- **[Gomoku Alpha Zero](https://github.com/ansonchan0325/Gomoku-integrated-with-Alpha-Zero)**: Reinforcement learning agent with MCTS & policy training
 - **[Market Time Series Prediction](https://github.com/xkillerjamesx12/tbot-st-ta)**: CNN-LSTM individal models + CNN-LSTM ensemble models
 
 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/anson-pw-chan) | ansonchan0325@gmail.com
